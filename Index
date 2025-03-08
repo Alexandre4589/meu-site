@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entenda mais sobre Autismo e TDAH</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0073e6;
+        }
+        footer {
+            background-color: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            font-size: 18px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #d9534f;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        Entenda mais sobre Autismo e TDAH
+    </header>
+
+    <div class="container">
+
+        <section id="autismo">
+            <h2>O que é o Autismo?</h2>
+            <p>
+                O <span class="highlight">Transtorno do Espectro Autista (TEA)</span> é uma condição que afeta o 
+                desenvolvimento do cérebro, impactando a comunicação, o comportamento e a interação social.
+                Pessoas com autismo podem ter dificuldades em compreender expressões faciais, manter contato visual 
+                e lidar com mudanças na rotina.
+            </p>
+            <h3>Sintomas comuns:</h3>
+            <ul>
+                <li>Dificuldade na comunicação verbal e não verbal</li>
+                <li>Interesses intensos e restritos</li>
+                <li>Resistência a mudanças na rotina</li>
+                <li>Hipersensibilidade a sons, luzes e texturas</li>
+            </ul>
+            <p>
+                O autismo pode variar de leve a severo, e o diagnóstico precoce pode ajudar a oferecer melhores 
+                estratégias para o desenvolvimento da criança.
+            </p>
+        </section>
+
+        <section id="tdah">
+            <h2>O que é o TDAH?</h2>
+            <p>
+                O <span class="highlight">Transtorno do Déficit de Atenção e Hiperatividade (TDAH)</span> é uma condição 
+                neurobiológica caracterizada por sintomas como desatenção, impulsividade e hiperatividade. 
+                Afeta tanto crianças quanto adultos e pode impactar o desempenho escolar, profissional e social.
+            </p>
+            <h3>Sintomas mais comuns:</h3>
+            <ul>
+                <li>Dificuldade em manter o foco e atenção</li>
+                <li>Impulsividade e dificuldade em esperar sua vez</li>
+                <li>Hiperatividade, como inquietação constante</li>
+                <li>Esquecimento e desorganização</li>
+            </ul>
+            <p>
+                O TDAH pode ser tratado com acompanhamento médico, mudanças na rotina e, em alguns casos, 
+                medicação prescrita por um especialista.
+            </p>
+        </section>
+
+        <section id="livro">
+            <h2>Quer entender melhor sobre Autismo e TDAH?</h2>
+            <p>
+                Com tantas dúvidas sobre esses transtornos, criamos um livro <span class="highlight">com informações mais 
+                detalhadas e aprofundadas</span> para ajudar pais, educadores e qualquer pessoa interessada no tema.
+            </p>
+            <h3>O que você encontrará no livro?</h3>
+            <ul>
+                <li>Explicações detalhadas sobre o Autismo e o TDAH</li>
+                <li>Estratégias para lidar com desafios do dia a dia</li>
+                <li>Depoimentos e histórias reais</li>
+                <li>Dicas para melhorar a qualidade de vida</li>
+            </ul>
+            <p>
+                Este material foi elaborado com muito cuidado para trazer **clareza e suporte** a quem convive com essas condições.
+                **Se você quer saber mais e aprender como lidar melhor com essas situações, nosso livro será um ótimo guia!**
+            </p>
+        </section>
+
+    </div>
+
+    <footer>
+        📚 Quer adquirir o livro? Entre em contato pelo número <span class="highlight">[SEU NÚMERO AQUI]</span> e garanta o seu exemplar!
+    </footer>
+
+</body>
+</html>
